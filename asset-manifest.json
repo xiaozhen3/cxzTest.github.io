@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/xiaozhen3/cxzTest.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/xiaozhen3/cxzTest.github.io/static/js/main.c0862726.chunk.js",
+    "main.js.map": "/xiaozhen3/cxzTest.github.io/static/js/main.c0862726.chunk.js.map",
+    "runtime-main.js": "/xiaozhen3/cxzTest.github.io/static/js/runtime-main.66aafe46.js",
+    "runtime-main.js.map": "/xiaozhen3/cxzTest.github.io/static/js/runtime-main.66aafe46.js.map",
+    "static/js/2.849011e5.chunk.js": "/xiaozhen3/cxzTest.github.io/static/js/2.849011e5.chunk.js",
+    "static/js/2.849011e5.chunk.js.map": "/xiaozhen3/cxzTest.github.io/static/js/2.849011e5.chunk.js.map",
+    "index.html": "/xiaozhen3/cxzTest.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/xiaozhen3/cxzTest.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.849011e5.chunk.js.LICENSE.txt": "/xiaozhen3/cxzTest.github.io/static/js/2.849011e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66aafe46.js",
+    "static/js/2.849011e5.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c0862726.chunk.js"
+  ]
+}
